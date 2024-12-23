@@ -2,7 +2,6 @@
 
 I'm **Michał Zieliński**. Currently working as a **Junior Fullstack/Alfresco Developer**.  
 I'm an **IT** student at **Poznań University of Technology**.  
-President of **[AKAI](https://github.com/akai-org)** - Research Group  
 **Kotlin lover**, also interested in other technologies such as **Android**, **Spring**, **Java**, **Docker**, **Cloud computing**.
 
 - 🔭 I’m currently working as **Junior Fullstack/Alfresco Developer @ BeOne**
